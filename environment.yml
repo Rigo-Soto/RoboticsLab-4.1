@@ -1,0 +1,6 @@
+name: mujoco_env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+prefix: /home/rigosoto/miniconda3/envs/mujoco_env
